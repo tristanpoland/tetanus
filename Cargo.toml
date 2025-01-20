@@ -1,0 +1,8 @@
+[package]
+name = "tetanus"
+license = "MIT"
+description = "A custom utils library for some common unsafe operations"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
